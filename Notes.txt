@@ -1,0 +1,9 @@
+* Create a production group in Gemfile with all the gems needed for production
+
+* Update Gemfile.lock, run 'bundle install --without production'
+
+* Create a heroku account and install the CLI
+
+* Login into heroku 'heroku login'
+
+* Create a new app 'heroku create'
